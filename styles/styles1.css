@@ -12,9 +12,11 @@ header{
 }
 main{
     background-color: aqua;
-    height: 80vh;
+    height: 60vh;
+    color: aquamarine;
 }
 footer{
     background-color: bisque;
     height: 20vh;
+    display: flex;
 }
