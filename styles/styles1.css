@@ -13,10 +13,21 @@ header{
 main{
     background-color: aqua;
     height: 60vh;
-    color: aquamarine;
+    color: rgb(68, 13, 248);
+    display: flex;
+    border: 1px border solid black;
+
 }
 footer{
     background-color: bisque;
     height: 20vh;
     display: flex;
+}
+article{
+    border: 1px border solid black;
+    background-color: rgb(234, 85, 85);
+    width: 250px;
+}
+#article1{
+    background-color: rgb(213, 188, 204);
 }
